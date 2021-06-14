@@ -1,3 +1,10 @@
+/* added this styling to make the navbar have 0 margin and padding-EeshanN */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 .App {
   text-align: center;
 }
